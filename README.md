@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=Daniel%20Chini&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Backend%20em%20evolucao&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=Daniel%20Chini&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Backend%20em%20evolução&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Foco+em+backend%2C+seguranca+e+banco+de+dados;Construindo+projetos+para+evoluir+como+desenvolvedor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Foco+em+backend%2C+segurança+e+banco+de+dados;Construindo+projetos+para+evoluir+como+desenvolvedor)](https://git.io/typing-svg)
 
 </div>
 
@@ -73,16 +73,16 @@ API REST para cadastro, autenticação e gerenciamento de usuários, endereços 
 - Aprofundar conhecimentos em Java e Spring Boot
 - Melhorar práticas de segurança em APIs REST
 - Criar testes unitários e de integração
-- Aprender Docker para facilitar execução de projetos
-- Evoluir documentação técnica dos meus repositórios
+- Aprender Docker para facilitar a execução dos projetos
+- Evoluir a documentação técnica dos meus repositórios
 
 ## Contato
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Danielchini05-181717?style=for-the-badge&logo=github)](https://github.com/Danielchini05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adicionar%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Adicionar%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Chini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieloliveirachini)
+[![Email](https://img.shields.io/badge/Email-danieloliveirachini%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieloliveirachini@gmail.com)
 
 </div>
 
