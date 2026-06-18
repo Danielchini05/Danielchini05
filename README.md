@@ -1,16 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=Daniel%20Chini&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Backend%20em%20evolução&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=Daniel%20Chini&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Backend%20Java&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Foco+em+backend%2C+segurança+e+banco+de+dados;Construindo+projetos+para+evoluir+como+desenvolvedor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+com+segurança%2C+persistência+e+boas+práticas;Projetos+organizados%2C+documentados+e+prontos+para+evoluir)](https://git.io/typing-svg)
 
 </div>
 
 ## Sobre mim
 
-Sou Daniel Chini, desenvolvedor backend em evolução, com foco em Java, Spring Boot, APIs REST, autenticação, persistência de dados e boas práticas de organização de código.
+Sou Daniel Chini, desenvolvedor backend com foco em Java, Spring Boot, APIs REST, autenticação, persistência de dados e organização de aplicações em camadas.
 
-Gosto de transformar estudos em projetos práticos, criando APIs com estrutura clara, separação em camadas e tecnologias usadas no mercado. Meu objetivo é crescer como desenvolvedor backend e construir soluções cada vez mais completas, seguras e bem documentadas.
+Atuo na construção de soluções backend com estrutura clara, código legível e atenção a boas práticas de desenvolvimento. Tenho experiência prática na criação de APIs com autenticação JWT, integração com banco de dados relacional, uso de DTOs, repositories, services e documentação técnica para facilitar manutenção, evolução e entendimento do projeto.
+
+Meu foco é desenvolver aplicações backend seguras, bem organizadas e alinhadas com necessidades reais de negócio, mantendo uma base técnica sólida para escalar funcionalidades e integrar novos recursos.
 
 ## Tecnologias e ferramentas
 
@@ -33,19 +35,22 @@ Gosto de transformar estudos em projetos práticos, criando APIs com estrutura c
 
 </div>
 
-## O que estou desenvolvendo
+## Competências backend
 
-- APIs REST com Java e Spring Boot
+- Desenvolvimento de APIs REST com Java e Spring Boot
 - Autenticação e autorização com Spring Security e JWT
-- Persistência de dados com Spring Data JPA e PostgreSQL
-- Projetos com camadas bem definidas: controller, service, DTO, repository e security
-- Documentações claras para facilitar a leitura de recrutadores e outros desenvolvedores
+- Modelagem e persistência de dados com Spring Data JPA e PostgreSQL
+- Organização de projetos em camadas: controller, service, DTO, repository e security
+- Criptografia de senhas com BCrypt
+- Criação de endpoints para cadastro, consulta, atualização e remoção de dados
+- Documentação de projetos para facilitar análise técnica, manutenção e colaboração
+- Uso de Git e GitHub para versionamento e apresentação de projetos
 
 ## Projeto em destaque
 
 ### API de Usuários
 
-API REST para cadastro, autenticação e gerenciamento de usuários, endereços e telefones. O projeto utiliza Java, Spring Boot, PostgreSQL, Spring Security e JWT.
+API REST para cadastro, autenticação e gerenciamento de usuários, endereços e telefones. O projeto utiliza Java, Spring Boot, PostgreSQL, Spring Security e JWT, com separação em camadas e documentação completa para execução local e entendimento da arquitetura.
 
 <div align="center">
 
@@ -68,13 +73,13 @@ API REST para cadastro, autenticação e gerenciamento de usuários, endereços 
 
 </div>
 
-## Objetivos atuais
+## Em constante evolução
 
-- Aprofundar conhecimentos em Java e Spring Boot
-- Melhorar práticas de segurança em APIs REST
-- Criar testes unitários e de integração
-- Aprender Docker para facilitar a execução dos projetos
-- Evoluir a documentação técnica dos meus repositórios
+- Aprimorando arquitetura e boas práticas em aplicações Java
+- Expandindo conhecimentos em segurança para APIs REST
+- Implementando testes unitários e de integração
+- Estudando Docker para padronizar ambientes de execução
+- Evoluindo a documentação técnica dos projetos no GitHub
 
 ## Contato
 
