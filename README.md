@@ -8,9 +8,7 @@
 
 ## Sobre mim
 
-Sou Daniel Chini, desenvolvedor backend Java com foco na criação de APIs REST seguras, organizadas e preparadas para evolução. Trabalho com Spring Boot, Spring Security, JWT, JPA e PostgreSQL, estruturando aplicações em camadas para manter o código claro, reutilizável e de fácil manutenção.
-
-Tenho interesse em desenvolver soluções backend que conectem regra de negócio, persistência de dados e segurança de forma eficiente. Nos meus projetos, busco aplicar boas práticas de desenvolvimento, documentação objetiva e versionamento com Git, criando uma base sólida para novas funcionalidades e integrações.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Back-End utilizando Java. Tenho experiência prática na criação de aplicações e APIs REST utilizando Java, Spring Boot, Spring Security, JPA/Hibernate e PostgreSQL. Ao longo dos meus projetos, desenvolvi soluções envolvendo autenticação e autorização com JWT, integração com bancos de dados relacionais, arquitetura em camadas e aplicação de boas práticas de desenvolvimento de software.
 
 ## Tecnologias
 
