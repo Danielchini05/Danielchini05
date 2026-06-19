@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=Java%20%7C%20Spring%20Boot%20%7C%20APIs%20REST&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=Spring%20Security%20%7C%20JWT%20%7C%20PostgreSQL&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=Daniel%20Chini&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Backend%20Java&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+com+segurança+e+boas+práticas;Projetos+organizados+e+bem+documentados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Spring+Security+%7C+JWT+%7C+PostgreSQL;JPA+%7C+Gradle+%7C+Git+%7C+GitHub)](https://git.io/typing-svg)
 
 </div>
 
